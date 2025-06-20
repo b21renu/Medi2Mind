@@ -1,5 +1,4 @@
-# Medi2Mind – AI-Powered Medical Diagnosis Assistant
-
+# Medi2Mind: Future of Medical Diagnosis
 **Medi2Mind** is a hybrid AI medical assistant that combines **multimodal medical image analysis Using Agentic AI** with a **Mixture of Experts (MoE)**-based large language model to simulate real-time consultations across five medical domains: Mental Health, Radiology, General Consultation, Veterinary Medicine, and Medical Imaging.
 
 ## Project Objective
